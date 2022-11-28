@@ -141,7 +141,7 @@ class ChoicePage extends StatelessWidget {
                                         )));
                               },
                               child: Text(
-                                "Hospital Reception",
+                                "Admin",
                                 style: TextStyle(
                                     color: Colors.white,
                                     fontWeight: FontWeight.bold),
